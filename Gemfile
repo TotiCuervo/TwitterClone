@@ -13,6 +13,8 @@ gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 
+#Use gem for User Accounts
+gem 'devise'
 
 #use bootstray for styling
 gem 'bootstrap-sass', '~> 3.3.6'
